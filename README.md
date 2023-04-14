@@ -31,4 +31,4 @@ References
 This implementation is based on the following resources:
 
 Neural networks and deep learning by Michael Nielsen
-A Simple Neural Network in C# by Luis Vieira
+A Simple Neural Network in C# by Luis Vieira 
