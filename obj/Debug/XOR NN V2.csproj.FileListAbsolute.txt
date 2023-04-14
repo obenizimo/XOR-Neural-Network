@@ -1,0 +1,8 @@
+C:\Users\obeno\source\repos\producer-consumer\XOR NN V2\obj\Debug\XOR NN V2.csproj.AssemblyReference.cache
+C:\Users\obeno\source\repos\producer-consumer\XOR NN V2\obj\Debug\XOR NN V2.csproj.SuggestedBindingRedirects.cache
+C:\Users\obeno\source\repos\producer-consumer\XOR NN V2\obj\Debug\XOR NN V2.csproj.CoreCompileInputs.cache
+C:\Users\obeno\source\repos\producer-consumer\XOR NN V2\bin\Debug\XOR NN V2.exe.config
+C:\Users\obeno\source\repos\producer-consumer\XOR NN V2\bin\Debug\XOR NN V2.exe
+C:\Users\obeno\source\repos\producer-consumer\XOR NN V2\bin\Debug\XOR NN V2.pdb
+C:\Users\obeno\source\repos\producer-consumer\XOR NN V2\obj\Debug\XOR NN V2.exe
+C:\Users\obeno\source\repos\producer-consumer\XOR NN V2\obj\Debug\XOR NN V2.pdb
